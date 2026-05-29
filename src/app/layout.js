@@ -34,6 +34,9 @@ export const metadata = {
     shortcut: [{ url: "/icon.svg", type: "image/svg+xml" }],
     apple: [{ url: "/icon.svg", type: "image/svg+xml" }],
   },
+  verification: {
+    google: "QZ4eN04UAAYQOC2Szca3pYMwL7b6Co9d1ddU5j6ZilY",
+  },
   openGraph: {
     title: "Rifani — Systems Engineer",
     description:
