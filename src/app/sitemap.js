@@ -1,5 +1,5 @@
 export default function sitemap() {
-  const baseUrl = "google76fb2caca724a149.html";
+  const baseUrl = "https://rifani-sh.vercel.app";
 
   return [
     {
