@@ -1354,7 +1354,7 @@ export default function Portfolio() {
                 ⌘ linkedin / rifani-sh
               </a>
               <a
-                href="https://wa.me/62977505234?text=Halo%20Rifani%2C%20saya%20ingin%20berdiskusi"
+                href="https://wa.me/628977505234?text=Halo%20Rifani%2C%20saya%20ingin%20berdiskusi"
                 target="_blank"
                 rel="noreferrer"
                 className="btn"
@@ -1534,7 +1534,7 @@ export default function Portfolio() {
                 </div>
               </a>
               <a
-                href={`https://wa.me/62977505234?text=${encodeURIComponent("hai, saya ingin berbisnis dengan anda")}`}
+                href={`https://wa.me/628977505234?text=${encodeURIComponent("hai, saya ingin berbisnis dengan anda")}`}
                 target="_blank"
                 rel="noreferrer"
                 className="contact-card"
