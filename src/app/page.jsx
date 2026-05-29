@@ -96,17 +96,17 @@ const PROJECTS = [
     link: "https://arrasyadiyyah.vercel.app/",
   },
   {
-    title: "Katakita Serangkota",
+    title: "Katakita Serang City",
     desc: "KataKita is a news monitoring dashboard for Serang City, developed under Diskominfo. The platform allows users to track news statistics, weekly trending topics, trending officials, media sentiment, and the latest news articles from local print media — all visualized in interactive charts and data tables.",
     link: "https://katakita-serangkota.vercel.app/",
   },
   {
-    title: "Kisah Imam Syafii",
+    title: "The History of Imam Syafii",
     desc: "An educational storytelling site that presents historical content in a simple, approachable layout.",
     link: "https://rifani-sh.github.io/kisah-imam-syafii/",
   },
   {
-    title: "Portfolio English",
+    title: "My Resume",
     desc: "A personal portfolio site structured for concise introduction and portfolio presentation.",
     link: "https://rifani-sh.github.io/portfolio-english/",
   },
