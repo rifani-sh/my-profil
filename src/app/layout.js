@@ -35,7 +35,7 @@ export const metadata = {
     apple: [{ url: "/icon.svg", type: "image/svg+xml" }],
   },
   verification: {
-    google: "QZ4eN04UAAYQOC2Szca3pYMwL7b6Co9d1ddU5j6ZilY",
+    google: "9rdGRAZ0uIz1M7WT_9WcC24L1AcOjPpsw98SXvcY0Yg",
   },
   openGraph: {
     title: "Rifani — Systems Engineer",
@@ -67,7 +67,7 @@ export default function RootLayout({ children }) {
       <head>
         <meta
           name="google-site-verification"
-          content="QZ4eN04UAAYQOC2Szca3pYMwL7b6Co9d1ddU5j6ZilY"
+          content="9rdGRAZ0uIz1M7WT_9WcC24L1AcOjPpsw98SXvcY0Yg"
         />
       </head>
       <body>{children}</body>
