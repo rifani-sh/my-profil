@@ -1,9 +1,34 @@
 import "./globals.css";
 
 export const metadata = {
+  metadataBase: new URL("https://rifani-sh.vercel.app"),
   title: "Rifani — Systems Engineer",
   description:
     "Exploring Linux, Cyber Security, AI automation, and modern web technologies. Always curious, always learning.",
+  keywords: [
+    "Rifani",
+    "Systems Engineer",
+    "Linux",
+    "Cyber Security",
+    "AI automation",
+    "Portfolio",
+    "Developer",
+  ],
+  authors: [{ name: "Rifani" }],
+  alternates: {
+    canonical: "https://rifani-sh.vercel.app",
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
+  },
   icons: {
     icon: [{ url: "/icon.svg", type: "image/svg+xml" }],
     shortcut: [{ url: "/icon.svg", type: "image/svg+xml" }],
